@@ -8,4 +8,5 @@
 <img src="https://media.discordapp.net/attachments/1269721761415434292/1269994864653766686/Picsart_24-08-05_15-25-10-740.png?ex=66b21663&is=66b0c4e3&hm=e88d4ffa9aece7c02f681be4bdda83bbe7d1abec885db5b7ae27908a1ee00b47&=&format=webp&quality=lossless&width=647&height=431">
 <img src="https://media.discordapp.net/attachments/1269721761415434292/1269994969578602607/Picsart_24-08-05_15-22-12-424.png?ex=66b2167c&is=66b0c4fc&hm=2797639a18abdab141cc55d4047fed41095f6b5a432748d1d1e9a146ce32e2b7&=&format=webp&quality=lossless&width=525&height=350">
 </div>
+  <iframe src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fteamcard%2FEw2LJJbl" width="268" height="380" frameborder="0" scrolling="no"></iframe>
 </html>
